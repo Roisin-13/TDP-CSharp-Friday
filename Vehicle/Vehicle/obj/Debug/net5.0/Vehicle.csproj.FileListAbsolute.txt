@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\Vehicle\Vehicle\bin\Debug\net5.0\Vehicle.exe
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\Vehicle\Vehicle\bin\Debug\net5.0\Vehicle.deps.json
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\Vehicle\Vehicle\bin\Debug\net5.0\Vehicle.runtimeconfig.json
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\Vehicle\Vehicle\bin\Debug\net5.0\Vehicle.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\Vehicle\Vehicle\bin\Debug\net5.0\Vehicle.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\Vehicle\Vehicle\bin\Debug\net5.0\ref\Vehicle.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\Vehicle\Vehicle\bin\Debug\net5.0\Vehicle.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\Vehicle\Vehicle\obj\Debug\net5.0\ref\Vehicle.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\Vehicle\Vehicle\obj\Debug\net5.0\Vehicle.genruntimeconfig.cache
