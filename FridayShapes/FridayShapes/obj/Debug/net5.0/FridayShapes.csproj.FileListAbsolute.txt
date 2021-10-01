@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FridayShapes\FridayShapes\bin\Debug\net5.0\FridayShapes.exe
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FridayShapes\FridayShapes\bin\Debug\net5.0\FridayShapes.deps.json
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FridayShapes\FridayShapes\bin\Debug\net5.0\FridayShapes.runtimeconfig.json
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FridayShapes\FridayShapes\bin\Debug\net5.0\FridayShapes.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FridayShapes\FridayShapes\bin\Debug\net5.0\FridayShapes.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FridayShapes\FridayShapes\bin\Debug\net5.0\ref\FridayShapes.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FridayShapes\FridayShapes\bin\Debug\net5.0\FridayShapes.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FridayShapes\FridayShapes\obj\Debug\net5.0\FridayShapes.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FridayShapes\FridayShapes\obj\Debug\net5.0\FridayShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FridayShapes\FridayShapes\obj\Debug\net5.0\FridayShapes.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FridayShapes\FridayShapes\obj\Debug\net5.0\FridayShapes.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FridayShapes\FridayShapes\obj\Debug\net5.0\FridayShapes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FridayShapes\FridayShapes\obj\Debug\net5.0\FridayShapes.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FridayShapes\FridayShapes\obj\Debug\net5.0\ref\FridayShapes.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FridayShapes\FridayShapes\obj\Debug\net5.0\FridayShapes.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FridayShapes\FridayShapes\obj\Debug\net5.0\FridayShapes.genruntimeconfig.cache
