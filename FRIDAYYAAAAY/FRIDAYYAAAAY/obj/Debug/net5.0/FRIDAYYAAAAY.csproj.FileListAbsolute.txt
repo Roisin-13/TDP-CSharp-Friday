@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FRIDAYYAAAAY\FRIDAYYAAAAY\bin\Debug\net5.0\FRIDAYYAAAAY.exe
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FRIDAYYAAAAY\FRIDAYYAAAAY\bin\Debug\net5.0\FRIDAYYAAAAY.deps.json
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FRIDAYYAAAAY\FRIDAYYAAAAY\bin\Debug\net5.0\FRIDAYYAAAAY.runtimeconfig.json
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FRIDAYYAAAAY\FRIDAYYAAAAY\bin\Debug\net5.0\FRIDAYYAAAAY.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FRIDAYYAAAAY\FRIDAYYAAAAY\bin\Debug\net5.0\FRIDAYYAAAAY.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FRIDAYYAAAAY\FRIDAYYAAAAY\bin\Debug\net5.0\ref\FRIDAYYAAAAY.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FRIDAYYAAAAY\FRIDAYYAAAAY\bin\Debug\net5.0\FRIDAYYAAAAY.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FRIDAYYAAAAY\FRIDAYYAAAAY\obj\Debug\net5.0\FRIDAYYAAAAY.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FRIDAYYAAAAY\FRIDAYYAAAAY\obj\Debug\net5.0\FRIDAYYAAAAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FRIDAYYAAAAY\FRIDAYYAAAAY\obj\Debug\net5.0\FRIDAYYAAAAY.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FRIDAYYAAAAY\FRIDAYYAAAAY\obj\Debug\net5.0\FRIDAYYAAAAY.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FRIDAYYAAAAY\FRIDAYYAAAAY\obj\Debug\net5.0\FRIDAYYAAAAY.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FRIDAYYAAAAY\FRIDAYYAAAAY\obj\Debug\net5.0\FRIDAYYAAAAY.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FRIDAYYAAAAY\FRIDAYYAAAAY\obj\Debug\net5.0\ref\FRIDAYYAAAAY.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FRIDAYYAAAAY\FRIDAYYAAAAY\obj\Debug\net5.0\FRIDAYYAAAAY.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Friday\FRIDAYYAAAAY\FRIDAYYAAAAY\obj\Debug\net5.0\FRIDAYYAAAAY.genruntimeconfig.cache
