@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FridayShapes.Shapes
 {
-    class Triangle : Rectangle
+    sealed class Triangle : Rectangle
     {
         public int getAreaTri(int h, int w)
         {
